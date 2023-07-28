@@ -1,5 +1,4 @@
-# ZProject
-
+# 𝗭𝗣𝗿𝗼𝗷𝗲𝗰𝘁 : 𝗕𝗔𝗖𝗞 𝗘𝗡𝗗
 
 <div align="center">
 
@@ -13,7 +12,6 @@
 <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/DATA%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 </div>

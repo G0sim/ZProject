@@ -1,6 +1,8 @@
+<div align="center">
+
 # 𝗭𝗣𝗿𝗼𝗷𝗲𝗰𝘁 : 𝗕𝗔𝗖𝗞 𝗘𝗡𝗗
 
-<div align="center">
+
 
 ### 🔧𝗨𝗦𝗜𝗡𝗚 𝗧𝗢𝗢𝗟𝗦
 <img src="https://img.shields.io/badge/INTELLIJ%20IDE-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
